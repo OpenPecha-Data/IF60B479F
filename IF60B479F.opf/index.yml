@@ -1,0 +1,131 @@
+id: f8c0f77035224fb5b757ae58f25ae814
+annotation_type: index
+revision: '00001'
+annotations:
+  e193e9a621ec4139b1b402b83700d1ef:
+    base: 866B.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 114
+    - title: Preface
+      span:
+        start: 115
+        end: 170
+    - title: 'Chapter 1: Bhagavatprasūti'
+      span:
+        start: 171
+        end: 16964
+    - title: 'Chapter 2: Antaḥpuravihāra'
+      span:
+        start: 16965
+        end: 27428
+    - title: 'Chapter 3: Saṃvegotpatti'
+      span:
+        start: 27429
+        end: 39436
+    - title: 'Chapter 4: Strīvighātana'
+      span:
+        start: 39437
+        end: 52759
+    - title: 'Chapter 5: Abhiniṣkramaṇa'
+      span:
+        start: 52760
+        end: 68806
+    - title: 'Chapter 6: Chandakanivartana'
+      span:
+        start: 68807
+        end: 77964
+    - title: 'Chapter 7: Tapovanapraveśa'
+      span:
+        start: 77965
+        end: 88587
+    - title: 'Chapter 8: Antaḥpuravilāpa'
+      span:
+        start: 88588
+        end: 104467
+    - title: 'Chapter 9: Kumārānveṣaṇa'
+      span:
+        start: 104468
+        end: 119515
+    - title: 'Chapter 10: Śreṇyābhigamana'
+      span:
+        start: 119516
+        end: 127210
+    - title: 'Chapter 11: Kāmavigarhaṇa'
+      span:
+        start: 127211
+        end: 140865
+    - title: 'Chapter 12: Arāḍadarśana'
+      span:
+        start: 140866
+        end: 155843
+    - title: 'Chapter 13: Māravijaya'
+      span:
+        start: 155844
+        end: 169348
+    - title: 'Chapter 14: Englightenment'
+      span:
+        start: 169349
+        end: 184784
+    - title: 'Chapter 15: Turning the Wheel of the Law'
+      span:
+        start: 184785
+        end: 195629
+    - title: 'Chapter 16: Many Conversions'
+      span:
+        start: 195630
+        end: 207549
+    - title: 'Chapter 17: Conversion (pravrajyā) of the Great Disciples'
+      span:
+        start: 207550
+        end: 215086
+    - title: 'Chapter 18: The Instruction of Anāthapiṇḍada'
+      span:
+        start: 215087
+        end: 231150
+    - title: 'Chapter 19: The Meeting of Father and Son'
+      span:
+        start: 231151
+        end: 241707
+    - title: 'Chapter 20: Acceptance of Jetavana'
+      span:
+        start: 241708
+        end: 252080
+    - title: 'Chapter 21: Progress (srotas) of the Mission'
+      span:
+        start: 252081
+        end: 261812
+    - title: 'Chapter 22: The Visit to Amrapāli''s Grove'
+      span:
+        start: 261813
+        end: 269073
+    - title: 'Chapter 23: Fixing the Factors of Bodily Life'
+      span:
+        start: 269074
+        end: 278762
+    - title: 'Chapter 24: Compassion for the Licchavis'
+      span:
+        start: 278763
+        end: 286951
+    - title: 'Chapter 25: The Journey to Nirvāṇa'
+      span:
+        start: 286952
+        end: 298059
+    - title: 'Chapter 26: The Mahāparinirvāṇa'
+      span:
+        start: 298060
+        end: 317225
+    - title: 'Chapter 27: Eulogy of Nirvāṇa'
+      span:
+        start: 317226
+        end: 332613
+    - title: 'Chapter 28: The Division of the Relics'
+      span:
+        start: 332614
+        end: 346657
+    - title: Colophon
+      span:
+        start: 346658
+        end: 347432
